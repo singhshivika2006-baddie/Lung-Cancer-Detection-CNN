@@ -1,7 +1,7 @@
 # Lung Cancer Detection using CNN
 
 **Author:** Shivika Singh  
-**Program:** BSc 4th Semester (3rd Year)  
+**Program:** BSc 4th Semester (2nd Year)  
 **Department:** School of Life Sciences  
 **University:** Dr. Bhimrao Ambedkar University  
 
@@ -179,7 +179,7 @@ https://keras.io/
 ## Author
 
 **Shivika Singh**  
-BSc 4th Semester (3rd Year)  
+BSc 4th Semester (2nd Year)  
 School of Life Sciences  
 Dr. Bhimrao Ambedkar University  
 Project: Lung Cancer Detection using CNN
